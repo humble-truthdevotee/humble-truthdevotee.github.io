@@ -14,3 +14,7 @@ I'm Humble Truth-devotee. Technically, I should be called "Polite Truth-deity"; 
   <li>I call myself "Humble" instead of "Polite" because in my opinion politeness without humbleness is fiction.</li>
   <li>I'm far from being a deity, hence I call myself a devotee of <a href = "https://en.wikipedia.org/wiki/Satya">Satya</a>.</li>
 </ol>
+
+## Contact 
+
+Drop me an email at <a href = "mailto:humbletruthdevotee@gmail.com">humbletruthdevotee@gmail.com</a>
