@@ -1,4 +1,4 @@
-#Thomas Jefferson on Democracy
+# Thomas Jefferson on Democracy
 
 When I was having doubts about actually believing in majority rule (not only representative democracy), I came across some quotes of Thomas Jefferson in Rahul Mehta's [Bootstrapping (US Edition)](https://www.rahulmehta.com/usa.bootstrapping.pdf). They answered a lot of my doubts. This is an excerpt from his book:
 
