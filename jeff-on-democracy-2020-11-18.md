@@ -1,5 +1,7 @@
 # Thomas Jefferson on Democracy
 
+*18 November 2020*
+
 When I was having doubts about actually believing in majority rule (not only representative democracy), I came across some quotes of Thomas Jefferson in Rahul Mehta's [Bootstrapping (US Edition)](https://www.rahulmehta.com/usa.bootstrapping.pdf). They answered a lot of my doubts. This is an excerpt from his book:
 
 >The first principle of republicanism is that the lex majoris partis is the fundamental law of every society of individuals of equal rights; to consider the will of the society enounced by the majority of   a single vote as sacred as if unanimous is the first of all lessons in importance, yet the last which is thoroughly learnt. This law once disregarded, no other remains but that of force, which ends necessarily in military despotism. 
