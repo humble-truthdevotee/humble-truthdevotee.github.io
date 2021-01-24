@@ -2,6 +2,8 @@
 
 ## 2021
 
+[Public Funded Subjects](https://humble-truthdevotee.github.io/public-funded-subjects-2021-01-24
+
 [Math Teaching Techniques](https://humble-truthdevotee.github.io/math-teaching-techniques-2021-01-24), 24 January 2020
 
 ## 2020
