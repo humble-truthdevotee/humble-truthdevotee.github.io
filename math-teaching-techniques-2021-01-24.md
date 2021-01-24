@@ -16,7 +16,19 @@ In addition, I also went through [kumon.com](https://kumon.com) and [https://kum
 
 In this blog post, I'll summarize everything for you so that you can understand their method of learning. 
 
-I'd suggest that you first read this article of theirs I've reproduced here:
+A brief introduction to the kumon method: 
+
+[from Wikipedia]
+
+Kumon is an enrichment or remedial program,[9] where instructors and assistants tailor instruction for individual students.
+
+Each student is given an initial assessment of his or her abilities, called the Kumon Diagnostic Test. Each test has a range of 20–60 questions. Based on the results and the student's study skills, a Kumon Instructor will create an individualized-study plan.
+
+Students commonly begin Kumon at an 'easy starting point' to build study habits, concentration and a strong understanding of the fundamental topics. As students progress, Kumon Instructors plan for students to study at a difficulty level that aims to challenge students so they remain motivated but not so difficult as to discourage them. The study plan is regularly updated by the Kumon Instructor to match the ability of each student. Students advance to the next level after they complete a mastery test based on speed and accuracy. Students do not pass or fail the mastery test, but are given chances to practice and retake the exam until they have demonstrated a sound understanding of the material.
+
+Kumon has two core programs, the Kumon Math and Kumon Native Language Program. There are also Kumon Japanese and Kumon Kokugo courses for Japanese language speakers and a Pencil Skills Program for younger students.
+
+All Kumon programs are pencil and worksheet based. The worksheets increase in difficulty in small increments. It is recommended that students study for 15–30 minutes for five days of the week with the other two study days being completed when students visit their local Kumon Center. 
 
 <hr>
 
