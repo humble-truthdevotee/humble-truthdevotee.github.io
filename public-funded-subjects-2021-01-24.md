@@ -60,7 +60,7 @@
 
 The different subjects can be divided into following modules equivalent to 1/4th of one year's syllabus.
 
-**9 Modules of History**
+**History**
 
 Military History:
 1. Indian Military History: Kargil War, Bangladesh Liberation War, 1965 Indo-Pak War, Sino Indian War, 1947 Indo-Pak War, Inclusion of Goa, Border Skirmishes, Azad Hind Fauj Battles, Revolt of 1957, wars Hindu kings faught with British, EIC, Mughal invaders and before. 
@@ -76,7 +76,7 @@ History of Science & Technology:
 2. Electricity, Evolution, other stuff in Biology, Astronomy, Chemistry
 3. Mathematics
 
-**Modules of Law**
+**Law**
 
 1. Constitution
 2. Penal Code
@@ -87,9 +87,35 @@ History of Science & Technology:
 7. Banking Laws - I
 8. Banking Laws - II
 
-**Modules of Geography**
+**Geography**
 
-8
+Just like History & Law, it will also have 8 modules. 
+
+**History, Law & Geography for 3rd and 4th class:** 
+1. Safety Rules (1/6)
+2. The Story of Past & Evidence in History (1/7)
+3. Responsibilities of a good citizen (1/7)
+4. The Earth (2/7)
+5. Our State: local geography & government (panchayat, municipality etc) (1/7)
+6. Environment and its concerns (2/7)
+7. Evolution (1/7)
+8. Natural Resources (1/7)
+
+1/6 + 1/7 + 1/7 + 2/7 + 1/7 + 2/7 + 1/7 = 1.30952380952, so we can divide these into the following 3 month modules:
+
+1. Safet Rules, basic information on punishments, visit to police station, prisons, courts. --- (1) and (3) from above
+2. Introduction to History: The Story of Past & Evidence in History, Evolution of Mankind --- (2) and (7)
+3. The Earth --- (4)
+4. Information about Natural Resources, local geography--- (5) and (8)
+
+**History, Law & Geography for class 5**
+1. Environment and its concerns --- (6)
+2. Constitution - I
+3. Constitution - II
+4. Penal Code
+
+**History, Law & Geography for class 6**
+
 
 --
 
