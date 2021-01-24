@@ -65,13 +65,11 @@ The different subjects can be divided into following modules equivalent to 1/4th
 Military History:
 1. Indian Military History: Kargil War, Bangladesh Liberation War, 1965 Indo-Pak War, Sino Indian War, 1947 Indo-Pak War, Inclusion of Goa, Border Skirmishes, Azad Hind Fauj Battles, Revolt of 1957, wars Hindu kings faught with British, EIC, Mughal invaders and before. 
 2. World Military History: Both World Wars, Cold War, Kuwait War, Fauklands war, invasion of Iraq, Libya and other African countries.
-3. Wars faught pre world war 1: campaign of Alexander, etc.
+3. campaign of Alexander, French Revolution, Russian Revolution, American Revolution. 
 
 Legal History:
 1. History of Dispute Resolution (in India, ancient Athenes, Roman empire, Britain, US)
 2. Evolution of administrative processes, acceptance of democracy, methods of punishments
-
-Midway Military & Legal History: French Revolution, Russian Revolution, American Revolution. 
 
 History of Science & Technology:
 1. Engineering
