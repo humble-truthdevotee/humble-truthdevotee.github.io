@@ -58,7 +58,7 @@ I propose the following method to make school Math just like Kumon Math.
 
 - *Increasing difficulty of problems in small increments:* Order problems such that they increase in difficulty in very small increments. [This makes it possible for students to form connections in their minds between the new concepts and topics they have already studied](https://www.kumon.com/resources/what-is-the-kumon-method/). 
 
-**Mastery:** The teacher will ask the student to redo problems they answered incorrectly and may give more problems related to the same concept until they answer all correctly. This allows the student to master each concept completely before learning a new one.
+**Mastery:** The teacher will ask the student to redo problems they answered incorrectly in worksheets and assessment test. They may give more problems related to the same concept until they answer all correctly. This allows the student to master each concept completely before learning a new one.
 Individualised Instruction: There will be no lecture with a teacher and 30-40 students. Teachers will be available for the students individually to help them get away with their difficulties. This helps the teacher to know each student’s progress and give them individual guidance.
 
 **Self-learning:** The student will first have to self learn the concepts by reading the text and the examples and try the problems. The teacher will be available for the students if they are facing difficulty in understanding the material. If the student is not able to solve a problem, the teacher won't directly give the solution. Instead, the teacher will provide hints and guide students to be aware of the [focal points of questions and think about the information that is given in the worksheet, supporting them to solve problems by themselves](https://www.kumon.org/our-method/). This helps the student to develop a habit of self-learning, one of the most important IMO.
@@ -66,5 +66,3 @@ Individualised Instruction: There will be no lecture with a teacher and 30-40 st
 **Placement Test:** If a student comes from another curriculum, they will be required to take a placement test using which the teacher will place him/her into the right unit. The teacher may put him/her to a lower unit just so that it is easy for them to grasp in the new learning environment and develop confidence.
  
 The above method allows the student to learn at his own pace, continuous motivation to study, be tested on a wider variety of problems, master the concepts and develop a habit of self-learning. It helps the teacher to continually review a student’s progress as part of grading and evaluating worksheets and fine-tune individual lesson plans, if necessary.
-
-*
