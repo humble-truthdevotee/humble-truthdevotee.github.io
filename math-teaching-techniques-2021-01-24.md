@@ -37,32 +37,7 @@ As the math concepts get more difficult, the real-life application gets more com
 Unlike school, Kumon teaches strictly mathematics. In Kumon, it is not technically necessary to understand how to apply 1+1=2 in the real world. Students simply must learn that 1+1=2 is a true statement. Students then learn that 2+1=3, 3+1=4, and so on. Math is taught incrementally, with students progressing step-by-step from counting all the way through calculus. As students do not need to have real world experience to learn what is strictly mathematics, even elementary school students can progress to algebra and beyond. Eventually, as students’ number sense and real world experience come together, they are able to apply what they’ve learned in different contexts.
  
 Some might find it counterintuitive to learn mathematics without its applications. After all, why learn what one plus one equals if you can’t make the connection that adding one penny to another equals two cents? However, once a student has learned a math concept, they then have an easier time learning how to apply it. Some math applications are included in the Kumon Program, but it is only introduced once a student has mastered the mathematical concepts. Without a strong base in the necessary math skills, students will reach a point where applying math is too difficult.  Just as a soccer player learns how to dribble the ball before applying that skill in a game, students should learn math skills before applying the concepts in real life situations.
- 
-Learn more about the Kumon Math Program. 
 
 <hr>
 
-[About Kumon’s Method of Learning](https://www.kumongroup.com/eng/about-kumon/method/)
- 
-I propose the following method to make school Math just like Kumon Math.
- 
-**Dividing course into “units”:** Just like Kumon has 21 levels, divide the entire syllabus of CBSE Mathematics Class-I to Class-XII into 12*4 = 48 units. The students may take as much time as they wish to complete a unit, ensuring that they can learn at their own pace.
-
-**Assessment Test:** After one completes a unit, there will be an assessment test, which the student will have to pass to move on to the next unit. This ensures continuous motivation which is not possible when there is one test at the end of the year. As there are four tests for the current annual curriculum, the test maker can test the students on a wider variety of problems in a single assessment which is not possible when there is one annual assessment.
-
-- *Worksheets:* Each unit will have several worksheets, and each worksheet will introduce a concept to the student with text, (an) example(s) and problems based on that. You can see an example of a worksheet by joining r/Kumon's discord server (whose invite link was given before) discord server. [The text written after [Sol.] will be absent in the student’s copy.]
-
-- *Writing new text material:* Write text material which assumes the absence of a lecture and thoroughly explains the concept, unlike a textbook. Reading text independently forces the student to think actively. IMO it is the best way to promote real-learning, unlike passive mediums like lectures/videos where information is fed into the student.
-
-- *Examples:* The examples should be sufficient to demonstrate how a concept is applied to solve various problems which the student will have to solve later.
-
-- *Increasing difficulty of problems in small increments:* Order problems such that they increase in difficulty in very small increments. [This makes it possible for students to form connections in their minds between the new concepts and topics they have already studied](https://www.kumon.com/resources/what-is-the-kumon-method/). 
-
-**Mastery:** The teacher will ask the student to redo problems they answered incorrectly in worksheets and assessment test. They may give more problems related to the same concept until they answer all correctly. This allows the student to master each concept completely before learning a new one.
-Individualised Instruction: There will be no lecture with a teacher and 30-40 students. Teachers will be available for the students individually to help them get away with their difficulties. This helps the teacher to know each student’s progress and give them individual guidance.
-
-**Self-learning:** The student will first have to self learn the concepts by reading the text and the examples and try the problems. The teacher will be available for the students if they are facing difficulty in understanding the material. If the student is not able to solve a problem, the teacher won't directly give the solution. Instead, the teacher will provide hints and guide students to be aware of the [focal points of questions and think about the information that is given in the worksheet, supporting them to solve problems by themselves](https://www.kumon.org/our-method/). This helps the student to develop a habit of self-learning, one of the most important IMO.
-
-**Placement Test:** If a student comes from another curriculum, they will be required to take a placement test using which the teacher will place him/her into the right unit. The teacher may put him/her to a lower unit just so that it is easy for them to grasp in the new learning environment and develop confidence.
- 
-The above method allows the student to learn at his own pace, continuous motivation to study, be tested on a wider variety of problems, master the concepts and develop a habit of self-learning. It helps the teacher to continually review a student’s progress as part of grading and evaluating worksheets and fine-tune individual lesson plans, if necessary.
+[to be continued]
