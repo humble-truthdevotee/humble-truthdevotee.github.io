@@ -4,72 +4,61 @@
 
 **1st and 2nd grade:**
 
-<ol>
-  <li> Mathematics
-  <li> Science
-  <li> English (or any other language of parent's choice)
-  <li> Hindi/Other Language
-  <li> Art
-</ol>
+1. Mathematics
+2. Science
+3. English
+4. Hindi (or other language)
+5. Art
 
 **3rd to 7th grade:**
 
-<ol>
-  <li> Mathematics
-  <li> Science
-  <li> English (or any other language of parent's choice)
-  <li> Hindi/Other Language
-  <li> Social Science (History, Geography & Law)
-  <li> Art
-</ol>
+1. Mathematics
+2. Science
+3. English
+4. Hindi (or other language)
+5. Social Science (History, Geography & Law)
+6. Art
 
 **8th to 10th grade:**
 
-<ol>
-  <li> Mathematics
-  <li> Physics
-  <li> Chemistry
-  <li> Biology
-  <li> English (or any other language of parent's choice)
-  <li> Hindi/Local Language
-  <li> Social Science (History, Geography & Law)
-  <li> Engineering & Cmputer Science (i.e. basics of Electronics, mechanics, structural engineering, programming, technical drawing etc.)
-</ol>
-
+1. Mathematics
+2. Physics
+3. Chemistry
+4. Biology
+5. English
+6. Hindi (or other language)
+7. Social Science (History, Geography & Law)
+8. Engineering & Computer Science (i.e. basics of Electronics, mechanics, structural engineering, programming, technical drawing etc)
+  
 **11th and 12th grade:**
 
 *Engineering*
-<ol>
-  <li> Mathematics
-  <li> Physics
-  <li> Chemistry
-  <li> English
-  <li> Engineering & Computer Science (options will include introductory courses of all types of engineering)
-  <li> Weapon Education
-</ol>
+
+1. Mathematics
+2. Physics
+3. Chemistry
+4. English
+5. Engineering & Computer Science (intro courses of one of the chosen engineering/computer science disciplines)
 
 *Medicine*
 
-<ol>
-  <li> Biology
-  <li> Physics
-  <li> Chemistry
-  <li> English
-  <li> Mathematics/Biotechnology
-  <li> Weapon Eduction
-</ol>
+1. Biology
+2. Physics
+3. Chemistry
+4. English
+5. Mathematics/Biotechnology
+6. Weapon Eduction
 
 *Law*
-<ol>
-  <li> Mathematics
-  <li> History
-  <li> Law
-  <li> Basic Computer Science
-  <li> Psychology/Sociology (or both)
-  <li> Weapon Education
-</ol>
 
-So, the different subjects can be divided into following modules equivalent to 1/4th of one year's syllabus.
+1. Mathematics
+2. History
+3. Law
+4. Philosophy
+5. Any subject of choice
+6. Weapon Education
+
+The different subjects can be divided into following modules equivalent to 1/4th of one year's syllabus.
 
 **9 Modules of History**
 
