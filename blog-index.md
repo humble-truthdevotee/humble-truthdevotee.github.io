@@ -2,7 +2,7 @@
 
 ## 2021
 
-[Teaching Techniques](https://humble-truthdevotee.github.io/teaching-techniques-2021-01-24), 24 January 2020
+[Math Teaching Techniques](https://humble-truthdevotee.github.io/math-teaching-techniques-2021-01-24), 24 January 2020
 
 ## 2020
 
