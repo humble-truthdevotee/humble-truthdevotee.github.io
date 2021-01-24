@@ -1,4 +1,4 @@
-# Teaching Techniques
+# Math Teaching Techniques
 
 *24 January 2021*
 
@@ -10,7 +10,7 @@
 
 Now, the last line, i.e. "the best Maths-teaching system I have come across is Kumon System and I will describe it in some other booklet." intrigued me. I went on and studied about the Kumon System of teaching Mathematics. I had previously studied some English at Kumon and my younger brother had studied Mathematics, so I went on to ask him how it worked. He remembered it vaguely, so I went on to read about it on the itnernet. Unfortunately, there is very limited information about Kumon (with practically little to no study material uploaded on the internet). I also contacted Mr. Mehta himself and asked him if he has written that "booklet" he was talking about in that article. He told me to contact a Kumon center and ask them how it works and also told me that I wouldn't be able to find much about it because it is a business. 
 
-I found there [subreddit](https://reddit.com/r/kumon), and from there I found [Academic Hub](https://academichub.ru). On Academic Hub, you can find some of their worksheets (especially for higher levels). 
+I found there [subreddit](https://reddit.com/r/kumon), and from there I found [AcademicHub](https://academichub.ru). On AcademicHub, you can find some of their worksheets (especially for higher levels). Unfortunately, AacademicHub is unavalaible, but you can find worksheets by joining their discord server ([invite link](https://discord.gg/jdrT3XTHpr)).
 
 In addition, I also went through [kumon.com](https://kumon.com) and [https://kumon.org) and understood their method of learning.
 
@@ -50,7 +50,7 @@ I propose the following method to make school Math just like Kumon Math.
 
 **Assessment Test:** After one completes a unit, there will be an assessment test, which the student will have to pass to move on to the next unit. This ensures continuous motivation which is not possible when there is one test at the end of the year. As there are four tests for the current annual curriculum, the test maker can test the students on a wider variety of problems in a single assessment which is not possible when there is one annual assessment.
 
-- *Worksheets:* Each unit will have several worksheets, and each worksheet will introduce a concept to the student with text, (an) example(s) and problems based on that. [An example of a worksheet](https://academichub.ru/viewer/h4XDlT2uZMK65d6vX5BfJ0QVWAsztOmlqefBBDyhByAAAAFzZjI5uAAAAABhYy10cmFuc2Zvcm0vZjVlYmRkOTZmZjhjMDBiODBmMGQ0Y2UxY2EyOWQxMzA2MzgyYzVkMTBmNGMxNWFjNGZiYThhNzYxM2EwMDZlYS5qcGct-,2.O%201a.jpg?pt=L3Jlc291cmNlcy9rdW1vbi9tYXRoL08vQW5zd2VyJTIwQm9vayUyMCgyMDIwKSUyMCU1Qk5FVyU1RCUyMCU1QkZTJTVE). [The text written after [Sol.] will be absent in the student’s copy.]
+- *Worksheets:* Each unit will have several worksheets, and each worksheet will introduce a concept to the student with text, (an) example(s) and problems based on that. You can see an example of a worksheet by joining r/Kumon's discord server (whose invite link was given before) discord server. [The text written after [Sol.] will be absent in the student’s copy.]
 
 - *Writing new text material:* Write text material which assumes the absence of a lecture and thoroughly explains the concept, unlike a textbook. Reading text independently forces the student to think actively. IMO it is the best way to promote real-learning, unlike passive mediums like lectures/videos where information is fed into the student.
 
@@ -66,3 +66,5 @@ Individualised Instruction: There will be no lecture with a teacher and 30-40 st
 **Placement Test:** If a student comes from another curriculum, they will be required to take a placement test using which the teacher will place him/her into the right unit. The teacher may put him/her to a lower unit just so that it is easy for them to grasp in the new learning environment and develop confidence.
  
 The above method allows the student to learn at his own pace, continuous motivation to study, be tested on a wider variety of problems, master the concepts and develop a habit of self-learning. It helps the teacher to continually review a student’s progress as part of grading and evaluating worksheets and fine-tune individual lesson plans, if necessary.
+
+*
