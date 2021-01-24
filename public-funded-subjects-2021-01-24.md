@@ -80,7 +80,22 @@ History of Science & Technology:
 
 **Modules of Law**
 
-Each module will have one book. What can be the dept of these topics? Let's do the calculations.
+1. Constitution
+2. Penal Code
+3. Criminal Procedure Code
+4. Civil Law
+5. Taxation
+6. Banking Laws
+7. {Placeholder}
+8. {Placeholder}
+
+**Modules of Geography**
+
+8
+
+--
+
+Each module of Social Sciences will have one book. What can be the dept of these topics? Let's do the calculations.
 
 Assuming,
 
