@@ -84,10 +84,10 @@ History of Science & Technology:
 2. Penal Code
 3. Criminal Procedure Code
 4. Civil Law
-5. Taxation
-6. Banking Laws
-7. {Placeholder}
-8. {Placeholder}
+5. Evidence Act
+6. Taxation
+7. Banking Laws - I
+8. Banking Laws - II
 
 **Modules of Geography**
 
